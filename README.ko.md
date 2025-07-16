@@ -1,4 +1,9 @@
-# 🚀 .NET 기반 윈도우즈 응용프로그램 개발자
+# 송영재 (Youngjae Song) [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md) [![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.ko.md)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al6uiz/)
+
+
+## 🚀 .NET 기반 윈도우즈 응용프로그램 개발자
 
 **WPF**를 활용한 고품질 그래픽스 시각화와
 사용자 중심의 **UI/UX 설계**에 깊은 관심을 가지고 있습니다.<br />
