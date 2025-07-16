@@ -4,7 +4,7 @@
 
 
 
-## 🚀 .NET-based Windows Application Developer
+## 🚀 .NET Software Engineer
 
 Deeply interested in **high-quality graphics visualization** and
 **user-centered UI/UX design** using **WPF**.<br />
@@ -15,9 +15,9 @@ Actively sharing knowledge and experience in the korean .NET developer community
 
 ## ✨ Key Development Experience
 
-Developing in developing **satellite testing**, **telemetry visualization**,
+Extensive experience in designing and developing **satellite testing**, **telemetry visualization**,
 **satellite-based navigation correction**, **mission planning**,
-and **simulation software** in the aerospace and defense sectors.
+and **simulation software** in the aerospace and defense sectors:
 
 ### 🛰️ Satellite Testing & Verification
 
