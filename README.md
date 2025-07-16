@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al6uiz/)
 
-
-
 ## 🚀 .NET Software Engineer
 
 Deeply interested in **high-quality graphics visualization** and
@@ -21,29 +19,29 @@ and **simulation software** in the aerospace and defense sectors:
 
 ### 🛰️ Satellite Testing & Verification
 
-* Developed an integrated ground testing and verification support solution for satellites
-* Developed a framework module for satellite telecommand and telemetry generation/processing
+* Developed integrated ground testing and verification support solutions for satellites
+* Developed a framework module for satellite telecommand and telemetry generation and processing
 * Developed concept validation software for deep space communication protocols for lunar probes
 
 ### 📡 Satellite Telemetry Visualization
 
-* Developed a telemetry visualization and authoring platform for satellites
+* Developed the telemetry visualization and authoring platform for satellites
 * Developed analysis and visualization tools for satellite payload telemetry data
 
 ### 🗺️ Satellite-based Navigation Systems (KASS & KPS)
 
-* Developed control and monitoring subsystem software for KASS and KPS
+* Developed control and monitoring subsystem softwares for KASS and KPS
 * Developed performance evaluation tools for KASS and KPS navigation systems
 * Developed verification and simulation tools for KASS reference stations
 
 ### 🪐 Satellite Operations
 
-* Developed map components for satellite imaging mission planning software
-* Developed realistic 3D visualization components for space threat detection and response software
+* Developed an interactive map component for satellite imaging mission planning software
+* Developed a realistic 3D visualization component for space threat detection and response software
 
 ### 🎮 Simulation & Training Systems
 
-* Developed a real-time visual engine for K-tank tactical training simulators
-* Developed hardware interface software for naval special warfare training systems
+* Developed a real-time visual engine for K-tank tactical training simulator
+* Developed hardware interface software for naval special warfare training system
 * Developed graphic instrument frameworks for submarine and aircraft training simulators
  
