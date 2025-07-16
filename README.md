@@ -5,7 +5,7 @@
 ## 🚀 .NET Software Engineer
 
 Deeply interested in **high-quality graphics visualization** and
-**user-centered UI/UX design** using **WPF**.<br />
+**user-friendly UI/UX design** using **WPF**.<br />
 Actively sharing knowledge and experience in the korean .NET developer community
 **[.NET Dev](https://forum.dotnetdev.kr/u/al6uiz/activity/solved)**.
 
