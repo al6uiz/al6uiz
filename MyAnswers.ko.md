@@ -1,3 +1,6 @@
+## ✅ 닷넷데브 Q&A 카테고리 답변 목록
+> 업데이트: 2025-08-08
+
 | 번호 | 제목 | 날짜 | 채택됨 |
 |---:|---|:---:|:---:|
 | 120 | [이 예제에서 Model에 INotifyPropertyChanged를 구현하지 않아도 되는 이유가 무엇인가요?](https://forum.dotnetdev.kr/t/model-inotifypropertychanged/13517/12) | 2025-08-08 | ✅ |
