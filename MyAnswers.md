@@ -1,4 +1,6 @@
 ## ✅ My Answers from .NET Dev Q&A 
+> Updated: 2025-08-08
+
 | No | Title | Date | Accepted |
 |---:|---|:---:|:---:|
 | 120 | [Why is it okay not to implement INotifyPropertyChanged in the Model in this example?](https://forum.dotnetdev.kr/t/model-inotifypropertychanged/13517/12) | 2025-08-08 | ✅ |
