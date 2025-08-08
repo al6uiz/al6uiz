@@ -46,6 +46,6 @@
 
 --- 
 
-[**✅ 닷넷데브 Q&A 카테고리에서 채택된 답변 목록**](MyAnswers.ko.md)
+[**✅ 닷넷데브 Q&A 카테고리 답변 목록**](MyAnswers.ko.md)
 
 <img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
