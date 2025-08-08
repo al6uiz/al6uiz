@@ -1,4 +1,4 @@
-| 번호 | 제목 | 날짜 | Accepted |
+| 번호 | 제목 | 날짜 | 채택됨 |
 |---:|---|:---:|:---:|
 | 120 | [이 예제에서 Model에 INotifyPropertyChanged를 구현하지 않아도 되는 이유가 무엇인가요?](https://forum.dotnetdev.kr/t/model-inotifypropertychanged/13517/12) | 2025-08-08 | ✅ |
 | 119 | [AvaloniaUI TemplateControl dll](https://forum.dotnetdev.kr/t/avaloniaui-templatecontrol-dll/13477/5) | 2025-07-31 |  |
@@ -52,7 +52,7 @@
 | 71 | [Devexpress Chart 눈금에 이상한 소수점 값 보신 분 계신가요?](https://forum.dotnetdev.kr/t/devexpress-chart/10722/2) | 2024-05-10 |  |
 | 70 | [부동소수점 처리 질문](https://forum.dotnetdev.kr/t/topic/10543/2) | 2024-04-22 |  |
 | 69 | [Wpf 기반의 VMS 클라이언트 개발에 관련하여 RTSP 영상 스트리밍 기술 문의합니다.](https://forum.dotnetdev.kr/t/wpf-vms-rtsp/10510/3) | 2024-04-18 |  |
-| 68 | [ObservableCollection으로 대분류 그리고 그 안의 ObservableCollection을 받아서 UI상에서 업데이트 시키는 방법](https://forum.dotnetdev.kr/t/observablecollection-observablecollection-ui/10501/2) | 2024-04-17 |  |
+| 68 | [ObservableCollection으로 대분류 그리고 그 안의 ObservableCollection을 받아서 UI상에서 ...](https://forum.dotnetdev.kr/t/observablecollection-observablecollection-ui/10501/2) | 2024-04-17 |  |
 | 67 | [카카오맵 또는 네이버지도에서 나침반, 방향지시 모드 처럼 표현할 수 있는 방법이 있을까요?](https://forum.dotnetdev.kr/t/topic/10434/3) | 2024-04-08 |  |
 | 66 | [Linq 문제](https://forum.dotnetdev.kr/t/linq/10356/26) | 2024-04-03 | ✅ |
 | 65 | [PacketByte Support 라이브러리](https://forum.dotnetdev.kr/t/packetbyte-support/10306/46) | 2024-03-26 |  |
