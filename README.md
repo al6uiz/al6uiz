@@ -45,5 +45,6 @@ and **simulation software** in the aerospace and defense sectors:
 * Developed hardware interface software for naval special warfare training system
 * Developed graphic instrument frameworks for submarine and aircraft training simulators
 ---
+ [**✅ My Answers from .NET Dev Q&A**](MyAnswers.md)
  
 <img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
