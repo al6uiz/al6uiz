@@ -3,6 +3,8 @@
 
 | No | Title | Date | Accepted |
 |---:|---|:---:|:---:|
+| 122 | [Choosing a WPF IoC Container](https://forum.dotnetdev.kr/t/13530/3) | 2025-08-08 |  | 
+| 121 | [I am self-studying WPF. What is the best way to handle socket communication?](https://forum.dotnetdev.kr/t/13548/6) | 2025-08-12 |  | 
 | 120 | [Why is it okay not to implement INotifyPropertyChanged in the Model in this example?](https://forum.dotnetdev.kr/t/model-inotifypropertychanged/13517/12) | 2025-08-08 | ✅ |
 | 119 | [AvaloniaUI TemplateControl dll](https://forum.dotnetdev.kr/t/avaloniaui-templatecontrol-dll/13477/5) | 2025-07-31 |  |
 | 118 | [Questions before starting WPF development](https://forum.dotnetdev.kr/t/wpf/13406/2) | 2025-07-19 |  |
