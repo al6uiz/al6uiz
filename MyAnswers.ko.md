@@ -3,6 +3,8 @@
 
 | 번호 | 제목 | 날짜 | 채택됨 |
 |---:|---|:---:|:---:|
+| 122 | [WPF IoC Container 선택](https://forum.dotnetdev.kr/t/13530/3) | 2025-08-08 |  | 
+| 121 | [WPF 독학 중입니다. 소켓 통신 관련 된 부분을 어떻게 처리하는 것이 좋은 방법일까요.](https://forum.dotnetdev.kr/t/13548/6) | 2025-08-12 |  | 
 | 120 | [이 예제에서 Model에 INotifyPropertyChanged를 구현하지 않아도 되는 이유가 무엇인가요?](https://forum.dotnetdev.kr/t/model-inotifypropertychanged/13517/12) | 2025-08-08 | ✅ |
 | 119 | [AvaloniaUI TemplateControl dll](https://forum.dotnetdev.kr/t/avaloniaui-templatecontrol-dll/13477/5) | 2025-07-31 |  |
 | 118 | [wpf 개발 시작전에 궁금한 점들 질문입니다.](https://forum.dotnetdev.kr/t/wpf/13406/2) | 2025-07-19 |  |
