@@ -7,7 +7,7 @@
 
 **WPF**를 활용한 **고품질 그래픽스 시각화와
 사용자 중심의 UI/UX 설계**에 깊은 관심을 가지고 있습니다.<br />
-닷넷 개발자 커뮤니티 **[닷넷데브](https://forum.dotnetdev.kr/u/al6uiz/activity/solved)** 에서 경험을 공유하고 있습니다.
+닷넷 개발자 커뮤니티 **[닷넷데브](https://forum.dotnetdev.kr/u/al6uiz/summary)** 에서 경험을 공유하고 있습니다.
 
 [**✅ 닷넷데브 Q&A 카테고리 답변 목록**](MyAnswers.ko.md)
 
