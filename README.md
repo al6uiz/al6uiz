@@ -8,7 +8,7 @@
 Deeply interested in **high-quality graphics visualization** and
 **user-friendly UI/UX design** using **WPF**.<br />
 Actively sharing knowledge and experience in the korean .NET developer community
-**[.NET Dev](https://forum.dotnetdev.kr/u/al6uiz/activity/solved)**.
+**[.NET Dev](https://forum.dotnetdev.kr/u/al6uiz/summary)**.
 
  [**✅ My Answers from .NET Dev Q&A**](MyAnswers.md)
  
