@@ -1,6 +1,6 @@
-# 송영재 (Youngjae Song) [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md) [![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.ko.md)
-
+# 송영재 (Youngjae Song) [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al6uiz/)
+<img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
 
 
 ## 🚀 .NET 기반 윈도우즈 응용프로그램 개발자
@@ -8,6 +8,8 @@
 **WPF**를 활용한 **고품질 그래픽스 시각화와
 사용자 중심의 UI/UX 설계**에 깊은 관심을 가지고 있습니다.<br />
 닷넷 개발자 커뮤니티 **[닷넷데브](https://forum.dotnetdev.kr/u/al6uiz/activity/solved)** 에서 경험을 공유하고 있습니다.
+
+[**✅ 닷넷데브 Q&A 카테고리 답변 목록**](MyAnswers.ko.md)
 
 ---
 
@@ -43,9 +45,5 @@
 * K-전차 전술 훈련 시뮬레이터용 실시간 비주얼 엔진 개발
 * 해군 특수전 모의 훈련 시스템 하드웨어 인터페이스 개발
 * 잠수함 및 항공기 훈련 시뮬레이터 그래픽 계기 프레임워크 개발
-
---- 
-
-[**✅ 닷넷데브 Q&A 카테고리 답변 목록**](MyAnswers.ko.md)
-
-<img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
+ 
+ 
