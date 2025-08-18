@@ -1,7 +1,7 @@
-# 송영재 (Youngjae Song) [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al6uiz/)
-<img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
+# 송영재 (Youngjae Song)
+[![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al6uiz/)
 
+<img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
 
 ## 🚀 .NET 기반 윈도우즈 응용프로그램 개발자
 
