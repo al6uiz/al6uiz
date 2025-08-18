@@ -10,6 +10,8 @@ Deeply interested in **high-quality graphics visualization** and
 Actively sharing knowledge and experience in the korean .NET developer community
 **[.NET Dev](https://forum.dotnetdev.kr/u/al6uiz/activity/solved)**.
 
+ [**✅ My Answers from .NET Dev Q&A**](MyAnswers.md)
+ 
 ---
 
 ## ✨ Key Development Experience
@@ -46,5 +48,3 @@ and **simulation software** in the aerospace and defense sectors:
 * Developed hardware interface software for naval special warfare training system
 * Developed graphic instrument frameworks for submarine and aircraft training simulators
 ---
- [**✅ My Answers from .NET Dev Q&A**](MyAnswers.md)
- 
