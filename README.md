@@ -1,6 +1,7 @@
-# Youngjae Song [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md) [![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.ko.md)
+# Youngjae Song 
+[![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.ko.md) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al6uiz/) 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al6uiz/)
+<img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
 
 ## 🚀 .NET Software Engineer
 
@@ -47,4 +48,3 @@ and **simulation software** in the aerospace and defense sectors:
 ---
  [**✅ My Answers from .NET Dev Q&A**](MyAnswers.md)
  
-<img src="https://komarev.com/ghpvc/?username=al6uiz" alt="al6uiz" style="display: hidden"/>
