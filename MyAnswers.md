@@ -3,6 +3,13 @@
 
 | No | Title | Date | Accepted |
 |---:|---|:---:|:---:|
+| 129 | [Applying a Default Font in WPF](https://forum.dotnetdev.kr/t/14161/4)    | 2025-12-20 |          |
+| 128 | [WPF Coding Practices](https://forum.dotnetdev.kr/t/14087/4)              | 2025-12-01 |          |
+| 127 | [Is Anyone Using VS 2026?](https://forum.dotnetdev.kr/t/14053/6)          | 2025-11-21 | ✅        |
+| 126 | [Connecting WPF XAML and ViewModel](https://forum.dotnetdev.kr/t/13980/3) | 2025-11-07 |          |
+| 125 | [About Workflow Foundation...](https://forum.dotnetdev.kr/t/13949/2)      | 2025-11-02 |          |
+| 124 | [Database Connection Methods](https://forum.dotnetdev.kr/t/13780/3)       | 2025-09-19 |          |
+| 123 | [I Have a Question](https://forum.dotnetdev.kr/t/13765/6)                 | 2025-09-18 |          |
 | 122 | [I am self-studying WPF. What is the best way to handle socket communication?](https://forum.dotnetdev.kr/t/13548/6) | 2025-08-12 |  | 
 | 121 | [Choosing a WPF IoC Container](https://forum.dotnetdev.kr/t/13530/3) | 2025-08-08 |  | 
 | 120 | [Why is it okay not to implement INotifyPropertyChanged in the Model in this example?](https://forum.dotnetdev.kr/t/model-inotifypropertychanged/13517/12) | 2025-08-08 | ✅ |
