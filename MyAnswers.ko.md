@@ -3,6 +3,13 @@
 
 | 번호 | 제목 | 날짜 | 채택됨 |
 |---:|---|:---:|:---:|
+| 139 | [wpf 기본 폰트 적용](https://forum.dotnetdev.kr/t/14161/4) | 2025-12-20 |  | 
+| 138 | [wpf 코드 작성법](https://forum.dotnetdev.kr/t/14087/4) | 2025-12-01 |  | 
+| 137 | [VS 2026 쓰고 계신 분들 있을까요?](https://forum.dotnetdev.kr/t/14053/6) | 2025-11-21 | ✅ | 
+| 126 | [wpf xaml과 viewmodel 연결](https://forum.dotnetdev.kr/t/13980/3) | 2025-11-07 |  | 
+| 125 | [워크플로우 파운데이션... 에 대해서](https://forum.dotnetdev.kr/t/13949/2) | 2025-11-02 |  | 
+| 124 | [db 연결 방식](https://forum.dotnetdev.kr/t/13780/3) | 2025-09-19 |  | 
+| 123 | [질문 좀 드립니다](https://forum.dotnetdev.kr/t/13765/6) | 2025-09-18 |  | 
 | 122 | [WPF 독학 중입니다. 소켓 통신 관련 된 부분을 어떻게 처리하는 것이 좋은 방법일까요.](https://forum.dotnetdev.kr/t/13548/6) | 2025-08-12 |  | 
 | 121 | [WPF IoC Container 선택](https://forum.dotnetdev.kr/t/13530/3) | 2025-08-08 |  | 
 | 120 | [이 예제에서 Model에 INotifyPropertyChanged를 구현하지 않아도 되는 이유가 무엇인가요?](https://forum.dotnetdev.kr/t/model-inotifypropertychanged/13517/12) | 2025-08-08 | ✅ |
